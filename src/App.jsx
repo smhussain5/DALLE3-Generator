@@ -6,7 +6,7 @@ import './index.css'
 
 function App() {
   const [prompt, setPrompt] = useState("");
-  const [imageURL, setImageURL] = useState("/src/assets/RICK_AND_MORTY_PLACEHOLDER.png");
+  const [imageURL, setImageURL] = useState("/RICK_AND_MORTY_PLACEHOLDER.png");
   const [style, setStyle] = useState("3D render");
   const [loading, setLoading] = useState(false);
 
