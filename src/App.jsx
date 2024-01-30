@@ -65,7 +65,7 @@ function App() {
                   </button>
                 </span>
               </div>
-              <input type="password" placeholder="Use your imagination!" className="input input-bordered w-screen max-w-xs text-xs" onChange={(e) => setAPI(e.target.value)} />
+              <input type="password" className="input input-bordered w-screen max-w-xs text-xs" onChange={(e) => setAPI(e.target.value)} required />
             </label>
           </div>
           <div className="flex flex-col gap-1 my-2">
