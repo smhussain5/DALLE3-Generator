@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <footer className="footer p-4 bg-neutral text-neutral-content place-items-center md:place-items-start md:fixed bottom-0">
+        <footer className="footer p-8 bg-neutral text-neutral-content place-items-center md:place-items-start">
             <aside className="align-items-center grid-flow-col">
                 <img src="/SH_LOGO_FUCHSIA.png" alt="Shabab Hussain Logo" width="32" />
                 <small>Shabab Hussain © {new Date().getFullYear()} - All right reserved</small>
