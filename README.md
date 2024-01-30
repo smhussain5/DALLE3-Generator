@@ -1,6 +1,6 @@
 # DALL·E 3 GENERATOR
 
-![DALL·E 3 demonstration GIF](https://github.com/smhussain5/DALLE3-Generator/blob/master/DALLE3_GENERATOR.gif?raw=true)
+![DALL·E 3 V2 demonstration GIF](https://github.com/smhussain5/DALLE3-Generator/blob/master/DALLE3_GENERATOR_V2.gif?raw=true)
 
 ## Problem 🤔
 
