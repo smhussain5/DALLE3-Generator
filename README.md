@@ -10,8 +10,6 @@ AI/OpenAI was one of the hottest topics in 2023. With OpenAI releasing their API
 
 This AI image generator utilizes OpenAI's API to generate a 1024x1024 image using DALLE 3. Using the input and select fields, users can create a prompt that also specifies illustration styles (eg, 3D render, anime, cubism, etc). The site also features conditional rendering with loading states and responsive web-design.
 
-(PS: Each API call costs $0.04 so have fun but not too much fun!)
-
 ## Technologies Used ⚙
 
 - API
